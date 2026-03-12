@@ -1,4 +1,4 @@
-crewai
+crewai==0.28.0
 langchain-openai
 python-dotenv
 reportlab
