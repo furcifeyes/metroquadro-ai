@@ -1,5 +1,6 @@
 setuptools
-crewai==0.80.0
+wheel
+crewai>=1.0.0
 python-dotenv
 reportlab
 litellm
